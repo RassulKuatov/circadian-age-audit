@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Age in curated circadian transcriptome datasets: coded table, protocol and analysis script"
+message: "If you use this dataset or the analysis script, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Kuatov"
+    given-names: "Rassul"
+    affiliation: "Independent researcher, Astana, Kazakhstan"
+    orcid: "https://orcid.org/0009-0004-2879-5316"
+abstract: >-
+  Manual coding of every entry of CircaKB for where the age of the animals or
+  donors is recorded, in what form, and to what moment it refers. Contains the
+  coded table of 54 Gene Expression Omnibus series, the coding protocol with its
+  dated revision log, and the Python script that regenerates every reported
+  value, the table and the figures from the coded table.
+keywords:
+  - circadian rhythms
+  - metadata
+  - data reuse
+  - Gene Expression Omnibus
+  - reporting standards
+  - meta-research
+license: CC-BY-4.0
+version: 1.0.2
+date-released: "2026-11-08"
+doi: "10.5281/zenodo.24047754"
