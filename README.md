@@ -81,4 +81,12 @@ Code: MIT. Data and protocol: CC BY 4.0.
 ## Citation
 
 <!-- Zenodo DOI badge goes here after the first release -->
- DOI: 10.5281/zenodo.24047754
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Kuatov
+  given-names: Rassul
+orcid: https://orcid.org/0009-0004-2879-5316
+title:RassulKuatov/circadian-age-audit: v1.0.0 — manuscript submission
+version: v1.0.0
+date-released: 2026-11-08
