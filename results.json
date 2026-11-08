@@ -1,0 +1,120 @@
+{
+ "n_records": 55,
+ "n_geo": 54,
+ "n_applicable": 48,
+ "source": {
+  "нет": 10,
+  "статья": 23,
+  "GEO": 11,
+  "доп. материалы": 4
+ },
+ "not_machine_readable": 37,
+ "not_machine_pct": 77.1,
+ "usable_for_comparison": 8,
+ "usable_pct": 16.7,
+ "n_forms": 11,
+ "anchor": {
+  "—": 11,
+  "не указан": 28,
+  "начало эксперимента": 6,
+  "другая процедура": 3
+ },
+ "shift_declared": 9,
+ "width_n": 31,
+ "width_median": 2,
+ "width_max": 52.2,
+ "mouse_n": 33,
+ "human_n": 9,
+ "mouse_geo": 8,
+ "human_geo": 2,
+ "table1": [
+  {
+   "form_ru": "точное значение по образцам",
+   "form_en": "Exact age, per sample",
+   "n": 2,
+   "pct": 4.2,
+   "example": "age: 63 / age: 20 / age: 57",
+   "usable": "yes"
+  },
+  {
+   "form_ru": "точное значение",
+   "form_en": "Single exact value for the series",
+   "n": 10,
+   "pct": 20.8,
+   "example": "6 week old male mice",
+   "usable": "yes*"
+  },
+  {
+   "form_ru": "узкий диапазон",
+   "form_en": "Narrow range (<=4 weeks)",
+   "n": 11,
+   "pct": 22.9,
+   "example": "8-12 weeks",
+   "usable": "no"
+  },
+  {
+   "form_ru": "широкий диапазон",
+   "form_en": "Wide range (>4 weeks)",
+   "n": 7,
+   "pct": 14.6,
+   "example": "12 to 24 months",
+   "usable": "no"
+  },
+  {
+   "form_ru": "среднее ± SD/SEM",
+   "form_en": "Cohort mean +/- SD or SEM",
+   "n": 4,
+   "pct": 8.3,
+   "example": "29.7 +/- 8.9",
+   "usable": "no"
+  },
+  {
+   "form_ru": "открытая граница",
+   "form_en": "Open-ended bound",
+   "n": 1,
+   "pct": 2.1,
+   "example": "retired breeders (>35 weeks old)",
+   "usable": "no"
+  },
+  {
+   "form_ru": "только отношение",
+   "form_en": "Relational claim, no value",
+   "n": 1,
+   "pct": 2.1,
+   "example": "cohoused littermates",
+   "usable": "no"
+  },
+  {
+   "form_ru": "несколько значений",
+   "form_en": "Several irreconcilable values",
+   "n": 1,
+   "pct": 2.1,
+   "example": "12-24 months vs 8-12 weeks + 4 weeks",
+   "usable": "no"
+  },
+  {
+   "form_ru": "выводится из длительностей",
+   "form_en": "Derivable only from a chain of durations",
+   "n": 1,
+   "pct": 2.1,
+   "example": "newly hatched, reared 12 days, +1 cycle",
+   "usable": "no"
+  },
+  {
+   "form_ru": "диапазон критерия отбора",
+   "form_en": "Eligibility window, not measured age",
+   "n": 1,
+   "pct": 2.1,
+   "example": "individuals 18-35 years of age",
+   "usable": "no"
+  },
+  {
+   "form_ru": "нет",
+   "form_en": "Absent",
+   "n": 9,
+   "pct": 18.8,
+   "example": "-",
+   "usable": "no"
+  }
+ ]
+}
