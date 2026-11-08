@@ -81,3 +81,4 @@ Code: MIT. Data and protocol: CC BY 4.0.
 ## Citation
 
 <!-- Zenodo DOI badge goes here after the first release -->
+ DOI: 10.5281/zenodo.24047754
